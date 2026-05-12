@@ -1,0 +1,13 @@
+data/archive/
+data/*.parquet
+data/*.csv.gz
+delta_lake/
+mlflow_data/
+mlruns/
+__pycache__/
+*.pyc
+.DS_Store
+*.egg-info/
+.env
+spark-warehouse/
+checkpoints/
